@@ -7,5 +7,7 @@ So I need to use selenium to just get the description from a product.
 
 
 Feel free to ask me anything anytime, even if there is a minor error,
+
 Thanks, 
+
 Pujan Vasania
